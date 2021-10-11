@@ -38,7 +38,7 @@ end)
         --blip
         local blips = {
                     --blip nev    szin melyik legyen    kordik x,y,z
-            {title="Epitkezes" ,colour=5, id=22, x = -155.9, y = -1029.4, z = 27.3}
+            {title="Epitkezes" ,colour=5, id=566, x = -155.9, y = -1029.4, z = 27.3}
          }
        Citizen.CreateThread(function()
        
