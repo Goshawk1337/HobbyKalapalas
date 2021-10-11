@@ -4,4 +4,6 @@ ha tetszik akkor kerlek mindenkepp hasznald es kovess githubon!
 
 https://github.com/Goshawk1337
 
+Explore Comnmunity: https://discord.gg/qaajfc5aGV
+
 Keszitette: Goshawk1337#7759
